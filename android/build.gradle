@@ -118,5 +118,4 @@ repositories {
 dependencies {
   // noinspection GradleDynamicVersion
   api 'com.facebook.react:react-native:+'
-  implementation 'de.idnow.android.sdk:idnow-platform:4.7.0'
 }
